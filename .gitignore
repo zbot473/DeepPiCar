@@ -109,3 +109,5 @@ tmp/
 # pycharm
 .idea/*
 
+.DS_Store
+*.h5
